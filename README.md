@@ -5,7 +5,7 @@
 All visualizations were built using Dune databases and the SQL queries listed in this repo 
 
 The dashboard is structured around 3 main topics : 
-1) **Active users** : unique adresses in the last day, week, year, etc. 
+1) **Active users** : unique addresses in the last day, week, year, etc. 
 2) **Volume** : volume in the last day, week; market shares by volume, etc. 
 3) **Transactions** : transactions in the last day, week; daily average amount per transaction; market share by transaction, etc. 
 
